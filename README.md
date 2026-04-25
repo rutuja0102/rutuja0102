@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Rutuja More</h1>
 <h3 align="center">MERN Stack Developer | Backend Engineer | AI-Integrated Systems</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Backend+Engineer;Building+AI-Integrated+Systems;Node.js+%7C+React.js+%7C+Flask+%7C+FastAPI" alt="Typing SVG" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rutuja-more-71b71a291/" target="_blank">
@@ -149,7 +149,7 @@
 
 ### Todo App
 **Tech:** `React.js` `Node.js` `Express.js` `MongoDB`
-[![GitHub](https://img.shields.io/badge/View_Repo-100000?style=flat&logo=github&logoColor=white)](https://github.com/rutuja0102)
+[![GitHub](https://img.shields.io/badge/View_Repo-100000?style=flat&logo=github&logoColor=white)](https://github.com/rutuja0102/to-do-app)
 
 - Full-stack task manager with CRUD, user auth & real-time UI updates
 - RESTful APIs with Express.js and persistent MongoDB storage
@@ -158,7 +158,7 @@
 
 ### Weather App
 **Tech:** `React.js` `OpenWeather API` `JavaScript`
-[![GitHub](https://img.shields.io/badge/View_Repo-100000?style=flat&logo=github&logoColor=white)](https://github.com/rutuja0102)
+[![GitHub](https://img.shields.io/badge/View_Repo-100000?style=flat&logo=github&logoColor=white)](https://github.com/rutuja0102/weather-fe-app)
 
 - Real-time weather data with city search & temperature unit toggle
 - Dynamic weather condition icons using React state management
