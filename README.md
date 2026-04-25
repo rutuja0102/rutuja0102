@@ -65,7 +65,7 @@
 
 ---
 
-### Manufacturing ERP System — MecMold
+### Manufacturing ERP System
 **Tech:** `Node.js` `Express.js` `Nest.js` `PostgreSQL`
 
 > A complete enterprise ERP solution built for the manufacturing industry.
@@ -178,10 +178,6 @@
 - 🎓 **BSc Computer Science** — CGPA: 9.73 | Final Year: 85.82% — YCIS Satara, Shivaji University
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rutuja0102&label=Profile%20views&color=6C63FF&style=flat" alt="Profile Views" />
-</p>
 
 <p align="center">
   <i>"Building systems that scale, backends that perform, and products that matter."</i>
