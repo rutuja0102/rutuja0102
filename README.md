@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rutuja More</h1>
+<h1 align="center">Hi, I'm Rutuja More</h1>
 <h3 align="center">MERN Stack Developer | Backend Engineer | AI-Integrated Systems</h3>
 
 <p align="center">
@@ -19,20 +19,18 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-- 🔭 Currently working at **Qhills Technology Pvt Ltd, Satara** as **Backend Developer Lead**
-- 💼 ~2 years of experience in **backend development & full-stack MERN projects**
-- 🤖 Passionate about building **AI-integrated backend systems**
-- 🏭 Built enterprise-level **ERP systems** for the manufacturing industry
-- 🌱 Currently working on a **School Program Management System** (Node.js)
-- 🎓 Certified in **MERN Stack Development**
-- 📫 Reach me at: **rutujam390@gmail.com**
-- 📍 Based in **Satara, Maharashtra, India**
+- Currently working at **Qhills Technology Pvt Ltd, Satara** as **Backend Developer Lead**
+- 2 years of experience in **backend development & full-stack MERN projects**
+- Passionate about building **AI-integrated backend systems**
+- Certified in **MERN Stack Development**
+- Reach me at: **rutujam390@gmail.com**
+- Based in **Satara, Maharashtra, India**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -61,13 +59,13 @@
 
 ---
 
-## 💼 Professional Projects @ Qhills Technology Pvt Ltd
+## Professional Projects @ Qhills Technology Pvt Ltd
 
-> 🔒 These projects are in a private organization repository. Described here for reference.
+> These projects are in a private organization repository. Described here for reference.
 
 ---
 
-### 🏭 Manufacturing ERP System — MecMold
+### Manufacturing ERP System — MecMold
 **Tech:** `Node.js` `Express.js` `Nest.js` `PostgreSQL`
 
 > A complete enterprise ERP solution built for the manufacturing industry.
@@ -79,7 +77,7 @@
 
 ---
 
-### 🤖 AI-Powered Resume Analysis System
+### AI-Powered Resume Analysis System
 **Tech:** `Flask` `Python` `PostgreSQL` `Socket.io`
 
 > An intelligent resume screening system using AI model integration.
@@ -91,7 +89,7 @@
 
 ---
 
-### 🤖 AI Resume Comparison System
+### AI Resume Comparison System
 **Tech:** `Flask` `Python` `PostgreSQL`
 
 > Extended resume intelligence — comparing multiple resumes side by side.
@@ -102,7 +100,7 @@
 
 ---
 
-### ✅ AI-Integrated Task Management System
+### AI-Integrated Task Management System
 **Tech:** `Flask` `Python` `SQL` `C# .NET`
 
 > Smart task management backend with AI-driven automation.
@@ -114,7 +112,7 @@
 
 ---
 
-### 📍 Location-Based Job Search Platform
+### Location-Based Job Search Platform
 **Tech:** `FastAPI` `Python` `PostgreSQL`
 
 > A job discovery platform that surfaces opportunities based on user location.
@@ -125,7 +123,7 @@
 
 ---
 
-### 🏫 School Program Management System *(In Progress)*
+### School Program Management System *(In Progress)*
 **Tech:** `Node.js` `Express.js` `MongoDB` `React.js`
 
 > A comprehensive management platform for school programs and their representative network.
@@ -138,9 +136,9 @@
 
 ---
 
-## 🚀 Personal Projects
+## Personal Projects
 
-### 🛒 Shopping App with Role-Based Access
+### Shopping App with Role-Based Access
 **Tech:** `React.js` `Node.js` `Express.js` `MongoDB`
 [![GitHub](https://img.shields.io/badge/View_Repo-100000?style=flat&logo=github&logoColor=white)](https://github.com/rutuja0102)
 
@@ -149,7 +147,7 @@
 
 ---
 
-### ✅ Todo App
+### Todo App
 **Tech:** `React.js` `Node.js` `Express.js` `MongoDB`
 [![GitHub](https://img.shields.io/badge/View_Repo-100000?style=flat&logo=github&logoColor=white)](https://github.com/rutuja0102)
 
@@ -158,7 +156,7 @@
 
 ---
 
-### 🌦️ Weather App
+### Weather App
 **Tech:** `React.js` `OpenWeather API` `JavaScript`
 [![GitHub](https://img.shields.io/badge/View_Repo-100000?style=flat&logo=github&logoColor=white)](https://github.com/rutuja0102)
 
@@ -167,32 +165,15 @@
 
 ---
 
-## 🎓 Certifications
+## Certifications
 
 | Certificate | Issued By | Year |
 |-------------|-----------|------|
 | MERN Stack Development | Online Certification | 2024–2025 |
 | Full Stack Developer Work Experience | Qhills Technology Pvt Ltd | Jul 2024 |
-
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rutuja0102&show_icons=true&theme=tokyonight" alt="Rutuja's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutuja0102&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutuja0102&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 Achievements
+## Achievements
 
 - 🎓 **BSc Computer Science** — CGPA: 9.73 | Final Year: 85.82% — YCIS Satara, Shivaji University
 
