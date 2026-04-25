@@ -140,7 +140,7 @@
 
 ### Shopping App with Role-Based Access
 **Tech:** `React.js` `Node.js` `Express.js` `MongoDB`
-[![GitHub](https://img.shields.io/badge/View_Repo-100000?style=flat&logo=github&logoColor=white)](https://github.com/rutuja0102)
+[![GitHub](https://img.shields.io/badge/View_Repo-100000?style=flat&logo=github&logoColor=white)](https://github.com/rutuja0102/ecom_app_fe)
 
 - Full-stack MERN e-commerce app with Admin, Seller & Customer roles
 - JWT-based authentication, product management, cart & order tracking
