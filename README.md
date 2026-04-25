@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rutuja-more" target="_blank">
+  <a href="https://www.linkedin.com/in/rutuja-more-71b71a291/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rutujam390@gmail.com">
